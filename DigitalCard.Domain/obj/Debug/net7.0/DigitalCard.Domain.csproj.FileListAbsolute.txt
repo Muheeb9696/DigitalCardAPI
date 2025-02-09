@@ -1,0 +1,12 @@
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\bin\Debug\net7.0\DigitalCard.Domain.deps.json
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\bin\Debug\net7.0\DigitalCard.Domain.dll
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\bin\Debug\net7.0\DigitalCard.Domain.pdb
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\DigitalCard.Domain.csproj.AssemblyReference.cache
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\DigitalCard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\DigitalCard.Domain.AssemblyInfoInputs.cache
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\DigitalCard.Domain.AssemblyInfo.cs
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\DigitalCard.Domain.csproj.CoreCompileInputs.cache
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\DigitalCard.Domain.dll
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\refint\DigitalCard.Domain.dll
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\DigitalCard.Domain.pdb
+E:\Egypt\Project\backend\DigitalCardAPI\DigitalCard.Domain\obj\Debug\net7.0\ref\DigitalCard.Domain.dll

@@ -1,0 +1,12 @@
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll

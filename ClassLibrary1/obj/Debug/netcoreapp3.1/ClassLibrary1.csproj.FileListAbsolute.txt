@@ -1,0 +1,5 @@
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+E:\Egypt\Project\backend\DigitalCardAPI\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
