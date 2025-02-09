@@ -68,7 +68,7 @@ namespace DigitalCard.Controllers
         //    return BadRequest("No Data Found");
         //}
 
-        [HttpGet("GetTopNevigation")]
+        [HttpGet("gettopnevigation")]
         public async Task<IActionResult> Getnavigation()
         {
             var result = await _nevigationService.GetAllNevigationAsync();

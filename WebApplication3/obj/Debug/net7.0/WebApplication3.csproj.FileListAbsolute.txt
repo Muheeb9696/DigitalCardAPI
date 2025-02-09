@@ -73,3 +73,6 @@ E:\Egypt\Project\backend\DigitalCardAPI\WebApplication3\obj\Debug\net7.0\refint\
 E:\Egypt\Project\backend\DigitalCardAPI\WebApplication3\obj\Debug\net7.0\WebApplication3.pdb
 E:\Egypt\Project\backend\DigitalCardAPI\WebApplication3\obj\Debug\net7.0\WebApplication3.genruntimeconfig.cache
 E:\Egypt\Project\backend\DigitalCardAPI\WebApplication3\obj\Debug\net7.0\ref\WebApplication3.dll
+E:\Egypt\Project\backend\DigitalCardAPI\WebApplication3\bin\Debug\net7.0\Mapster.dll
+E:\Egypt\Project\backend\DigitalCardAPI\WebApplication3\bin\Debug\net7.0\Mapster.Core.dll
+E:\Egypt\Project\backend\DigitalCardAPI\WebApplication3\bin\Debug\net7.0\Mapster.DependencyInjection.dll
